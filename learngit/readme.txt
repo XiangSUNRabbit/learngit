@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 Git is a distributed version control and but system.
-Git is free software distributed under GPL.
+Git is a free software distributed under GPL.
 fuck
 GGGGGG
